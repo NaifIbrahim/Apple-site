@@ -35,14 +35,15 @@ a {
     color:blue;
 }
 #watch1{
-    height: 525px;
+    height: 540px;
     width: 100vw;
     background-color: black;
     color: white;
 }
 .maindiv{
     display: flex;
-    height: 500px;
+    height: 800px;
+    width: 100%;
 }
 .d1{
     flex: 50%;
